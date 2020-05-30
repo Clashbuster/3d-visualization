@@ -5,15 +5,6 @@ using UnityEngine;
 public class SpawnerController : MonoBehaviour
 {
 
-hallo hallo
-more more more
-
-
-yo yo yo yo
-
-wowowowowowowowowowowo
-
-
   public class Cell
     {
         GameObject square = null;
